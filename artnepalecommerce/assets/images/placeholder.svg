@@ -1,0 +1,13 @@
+<!-- Placeholder Image Data URI -->
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="200" fill="#F0F0F0"/>
+    <rect width="300" height="200" fill="url(#pattern)" opacity="0.3"/>
+    <text x="150" y="100" font-family="Arial, sans-serif" font-size="16" fill="#666" text-anchor="middle">Product Image</text>
+    <text x="150" y="120" font-family="Arial, sans-serif" font-size="12" fill="#999" text-anchor="middle">Not Available</text>
+    <defs>
+        <pattern id="pattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <rect x="0" y="0" width="20" height="20" fill="#E0E0E0"/>
+            <circle cx="10" cy="10" r="2" fill="#D0D0D0"/>
+        </pattern>
+    </defs>
+</svg>
