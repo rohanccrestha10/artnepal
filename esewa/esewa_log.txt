@@ -1,0 +1,50 @@
+[2026-05-24 06:13:21] Initiation Payload: {"order_id":"40","amount":"3500.00","total_amount":3500,"transaction_uuid":"TXN-348f9fd945c44b1a-1779596001","product_code":"EPAYTEST","signature":"m8G5YmapJCx+NA26vTu5MY65kyxnfAXa96cBf\/1bRCA="}
+
+[2026-05-24 06:15:18] Initiation Payload: {"order_id":"41","amount":"3500.00","total_amount":3500,"transaction_uuid":"TXN-705b17a98f8a20e9-1779596118","product_code":"EPAYTEST","signature":"IsM7KeaTgVgfoFsv4MDjUIyEPSZ7QCsIRLx7cO6B8SU="}
+
+[2026-05-24 06:17:27] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRkpDQiIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiMjgwMC4wIiwidHJhbnNhY3Rpb25fdXVpZCI6IlRYTi0yYTQzM2NhMzM1ODEyNjFlLTE3Nzk1OTU0NzIiLCJwcm9kdWN0X2NvZGUiOiJFUEFZVEVTVCIsInNpZ25lZF9maWVsZF9uYW1lcyI6InRyYW5zYWN0aW9uX2NvZGUsc3RhdHVzLHRvdGFsX2Ftb3VudCx0cmFuc2FjdGlvbl91dWlkLHByb2R1Y3RfY29kZSxzaWduZWRfZmllbGRfbmFtZXMiLCJzaWduYXR1cmUiOiJaYkY2MmJDQ0RnTG1zem9sejZ2L0JWM2lwUHNGQkZscHV6NVowdmt4V1lJPSJ9
+
+[2026-05-24 06:17:27] Verification Decoded Data: {"transaction_code":"000FJCB","status":"COMPLETE","total_amount":"2800.0","transaction_uuid":"TXN-2a433ca33581261e-1779595472","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"ZbF62bCCDgLmszolz6v/BV3ipPsFBFlpuz5Z0vkxWYI="}
+
+[2026-05-24 06:17:51] Initiation Payload: {"order_id":"42","amount":"3500.00","total_amount":3500,"transaction_uuid":"TXN-cdb39808e36e631e-1779596271","product_code":"EPAYTEST","signature":"Ca7jIWzl9DhK7OkdZi0oIdGo5oOTXBAdfxN3NgR4cjY="}
+
+[2026-05-24 06:18:42] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRkpDQyIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiMzUwMC4wIiwidHJhbnNhY3Rpb25fdXVpZCI6IlRYTi1jZGIzOTgwOGUzNmU2MzFlLTE3Nzk1OTYyNzEiLCJwcm9kdWN0X2NvZGUiOiJFUEFZVEVTVCIsInNpZ25lZF9maWVsZF9uYW1lcyI6InRyYW5zYWN0aW9uX2NvZGUsc3RhdHVzLHRvdGFsX2Ftb3VudCx0cmFuc2FjdGlvbl91dWlkLHByb2R1Y3RfY29kZSxzaWduZWRfZmllbGRfbmFtZXMiLCJzaWduYXR1cmUiOiJyV29oMzZoZ0JGMkZRSmlsc3pVbUsyKzVzSzJUTWJYV2hPQVY5dEJodERNPSJ9
+
+[2026-05-24 06:18:42] Verification Decoded Data: {"transaction_code":"000FJCC","status":"COMPLETE","total_amount":"3500.0","transaction_uuid":"TXN-cdb39808e36e631e-1779596271","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"rWoh36hgBF2FQJilszUmK2+5sK2TMbXWhOAV9tBhtDM="}
+
+[2026-06-13 08:59:02] Initiation Payload: {"order_id":"43","amount":"650.00","total_amount":650,"transaction_uuid":"TXN-df35c42353fa4fa9-1781333942","product_code":"EPAYTEST","signature":"qbY4mQauI4iPooB73JYPULV1Eidk7g6EKjYy9M5d6NQ="}
+
+[2026-06-13 08:59:23] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRlNLUiIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNjUwLjAiLCJ0cmFuc2FjdGlvbl91dWlkIjoiVFhOLWRmMzVjNDIzNTNmYTRmYTktMTc4MTMzMzk0MiIsInByb2R1Y3RfY29kZSI6IkVQQVlURVNUIiwic2lnbmVkX2ZpZWxkX25hbWVzIjoidHJhbnNhY3Rpb25fY29kZSxzdGF0dXMsdG90YWxfYW1vdW50LHRyYW5zYWN0aW9uX3V1aWQscHJvZHVjdF9jb2RlLHNpZ25lZF9maWVsZF9uYW1lcyIsInNpZ25hdHVyZSI6IkhyWlN1R0xTNVMwcFlwdktHVWlZZTdGSFlRdGZJNHlkTlNYQlRrV05jeXc9In0=
+
+[2026-06-13 08:59:23] Verification Decoded Data: {"transaction_code":"000FSKR","status":"COMPLETE","total_amount":"650.0","transaction_uuid":"TXN-df35c42353fa4fa9-1781333942","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"HrZSuGLS5S0pYpvKGUiYe7FHYQtfI4ydNSXBTkWNcyw="}
+
+[2026-06-23 18:13:07] Initiation Payload: {"order_id":"44","amount":"650.00","total_amount":650,"transaction_uuid":"TXN-fe777200412e91f3-1782231187","product_code":"EPAYTEST","signature":"55zqzdJJUXjVmY3sf95G\/BW4ul0RtaKLz5Oa5euijz0="}
+
+[2026-06-23 18:14:11] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRllHQiIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNjUwLjAiLCJ0cmFuc2FjdGlvbl91dWlkIjoiVFhOLWZlNzc3MjAwNDEyZTkxZjMtMTc4MjIzMTE4NyIsInByb2R1Y3RfY29kZSI6IkVQQVlURVNUIiwic2lnbmVkX2ZpZWxkX25hbWVzIjoidHJhbnNhY3Rpb25fY29kZSxzdGF0dXMsdG90YWxfYW1vdW50LHRyYW5zYWN0aW9uX3V1aWQscHJvZHVjdF9jb2RlLHNpZ25lZF9maWVsZF9uYW1lcyIsInNpZ25hdHVyZSI6IlBvOTR0UVZ3azlTbk1OTk50aWVoRmRDS0Rray9TdHRDT2Q5ekN2SnlHS3c9In0=
+
+[2026-06-23 18:14:11] Verification Decoded Data: {"transaction_code":"000FYGB","status":"COMPLETE","total_amount":"650.0","transaction_uuid":"TXN-fe777200412e91f3-1782231187","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"Po94tQVwk9SnMNNNtiehFdCKDkk/SttCOd9zCvJyGKw="}
+
+[2026-06-23 18:24:10] Initiation Payload: {"order_id":"45","amount":"650.00","total_amount":650,"transaction_uuid":"TXN-04f980ed04a753dc-1782231850","product_code":"EPAYTEST","signature":"xwSLuEvyLAA66qAxu24755CR5Sdtgdm3wFELzqE2EvM="}
+
+[2026-06-23 18:24:38] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRllHRyIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNjUwLjAiLCJ0cmFuc2FjdGlvbl91dWlkIjoiVFhOLTA0Zjk4MGVkMDRhNzUzZGMtMTc4MjIzMTg1MCIsInByb2R1Y3RfY29kZSI6IkVQQVlURVNUIiwic2lnbmVkX2ZpZWxkX25hbWVzIjoidHJhbnNhY3Rpb25fY29kZSxzdGF0dXMsdG90YWxfYW1vdW50LHRyYW5zYWN0aW9uX3V1aWQscHJvZHVjdF9jb2RlLHNpZ25lZF9maWVsZF9uYW1lcyIsInNpZ25hdHVyZSI6ImtlcnFDRHdGMk1ZTDZIWHNjZ1FEVkY3aVZhY1pYbXQvOHJoME9TRkNqV1U9In0=
+
+[2026-06-23 18:24:38] Verification Decoded Data: {"transaction_code":"000FYGG","status":"COMPLETE","total_amount":"650.0","transaction_uuid":"TXN-04f980ed04a753dc-1782231850","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"kerqCDwF2MYL6HXscgQDVF7iVacZXmt/8rh0OSFCjWU="}
+
+[2026-06-23 18:25:32] Initiation Payload: {"order_id":"46","amount":"4500.00","total_amount":4500,"transaction_uuid":"TXN-ab4832fb6cb1a5a3-1782231932","product_code":"EPAYTEST","signature":"C0SLC24f5jEJUh+w43fE\/rjthoILk6KkUbFngJ9C0cU="}
+
+[2026-06-23 18:25:52] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRllHSCIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNDUwMC4wIiwidHJhbnNhY3Rpb25fdXVpZCI6IlRYTi1hYjQ4MzJmYjZjYjFhNWEzLTE3ODIyMzE5MzIiLCJwcm9kdWN0X2NvZGUiOiJFUEFZVEVTVCIsInNpZ25lZF9maWVsZF9uYW1lcyI6InRyYW5zYWN0aW9uX2NvZGUsc3RhdHVzLHRvdGFsX2Ftb3VudCx0cmFuc2FjdGlvbl91dWlkLHByb2R1Y3RfY29kZSxzaWduZWRfZmllbGRfbmFtZXMiLCJzaWduYXR1cmUiOiI3Z21zak9LZFQ2ZWt1Z042a1BWS0VmUk9UZU12Y0pvQWticEVWMjRZNlJrPSJ9
+
+[2026-06-23 18:25:52] Verification Decoded Data: {"transaction_code":"000FYGH","status":"COMPLETE","total_amount":"4500.0","transaction_uuid":"TXN-ab4832fb6cb1a5a3-1782231932","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"7gmsjOKdT6ekugN6kPVKEfROTeMvcJoAkbpEV24Y6Rk="}
+
+[2026-06-27 07:29:40] Initiation Payload: {"order_id":"47","amount":"4500.00","total_amount":4500,"transaction_uuid":"TXN-9f105d901ec9811d-1782538180","product_code":"EPAYTEST","signature":"dfqkZ3KiPTsxPqNVZlL0kn48se3L3fGCkT\/SyHEw7mc="}
+
+[2026-06-27 07:30:01] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRlpFTCIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNDUwMC4wIiwidHJhbnNhY3Rpb25fdXVpZCI6IlRYTi05ZjEwNWQ5MDFlYzk4MTFkLTE3ODI1MzgxODAiLCJwcm9kdWN0X2NvZGUiOiJFUEFZVEVTVCIsInNpZ25lZF9maWVsZF9uYW1lcyI6InRyYW5zYWN0aW9uX2NvZGUsc3RhdHVzLHRvdGFsX2Ftb3VudCx0cmFuc2FjdGlvbl91dWlkLHByb2R1Y3RfY29kZSxzaWduZWRfZmllbGRfbmFtZXMiLCJzaWduYXR1cmUiOiJtV0pNendiQm84b0YyUXdnRk9SMzhiZ2hlSTNxRExmbzI1eE9BbWlOanpJPSJ9
+
+[2026-06-27 07:30:01] Verification Decoded Data: {"transaction_code":"000FZEL","status":"COMPLETE","total_amount":"4500.0","transaction_uuid":"TXN-9f105d901ec9811d-1782538180","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"mWJMzwbBo8oF2QwgFOR38bgheI3qDLfo25xOAmiNjzI="}
+
+[2026-06-27 08:30:52] Initiation Payload: {"order_id":"48","amount":"650.00","total_amount":650,"transaction_uuid":"TXN-d953a7b5aef0a1bb-1782541852","product_code":"EPAYTEST","signature":"aSHs2woysejiMXJi6id5WftrFXQrli7XmEnRQHIdLOg="}
+
+[2026-06-27 08:31:13] Verification Raw Data: eyJ0cmFuc2FjdGlvbl9jb2RlIjoiMDAwRlpFTiIsInN0YXR1cyI6IkNPTVBMRVRFIiwidG90YWxfYW1vdW50IjoiNjUwLjAiLCJ0cmFuc2FjdGlvbl91dWlkIjoiVFhOLWQ5NTNhN2I1YWVmMGExYmItMTc4MjU0MTg1MiIsInByb2R1Y3RfY29kZSI6IkVQQVlURVNUIiwic2lnbmVkX2ZpZWxkX25hbWVzIjoidHJhbnNhY3Rpb25fY29kZSxzdGF0dXMsdG90YWxfYW1vdW50LHRyYW5zYWN0aW9uX3V1aWQscHJvZHVjdF9jb2RlLHNpZ25lZF9maWVsZF9uYW1lcyIsInNpZ25hdHVyZSI6Im5LSWNSN0pBd0dqL0xUT1VUaFEvbEdIbVJROTZ4MGowT1R3S3FKK0hQZFU9In0=
+
+[2026-06-27 08:31:13] Verification Decoded Data: {"transaction_code":"000FZEN","status":"COMPLETE","total_amount":"650.0","transaction_uuid":"TXN-d953a7b5aef0a1bb-1782541852","product_code":"EPAYTEST","signed_field_names":"transaction_code,status,total_amount,transaction_uuid,product_code,signed_field_names","signature":"nKIcR7JAwGj/LTOUThQ/lGHmRQ96x0j0OTwKqJ+HPdU="}
+
